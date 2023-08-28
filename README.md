@@ -38,7 +38,7 @@ To get started with this project, you can follow these steps:
    cd hotel_booking_analysis
    ```
 
-3. Open the `analysis.ipynb` notebook using a Jupyter Notebook-compatible environment to explore the dataset and analysis code.
+3. Open the `hotel_booking_analysis.ipynb` notebook using a Jupyter Notebook-compatible environment to explore the dataset and analysis code.
 
 ## Contact Information
 
